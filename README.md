@@ -1,3 +1,3 @@
 # lab1
-![screen](img1.1.png)
+![screen](laba1.png)
 + Bulls and Cows console game
